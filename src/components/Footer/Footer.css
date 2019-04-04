@@ -11,3 +11,12 @@
 .fab {
 	padding: 0px 5px;
 }
+
+@media(max-width: 768px) {
+	.fab {
+		font-size: 22px;
+	}
+	.footer {
+		font-size: 14px;
+	}
+}

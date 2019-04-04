@@ -9,8 +9,9 @@
 .color-dog {
 	background: url('../../img/colorDog.png');
 	background-repeat: no-repeat;
+	background-size: contain;
 	height: 210px;
-	width: 500px;
+	width: 100%;
 	margin: auto;
 
 }
@@ -54,4 +55,15 @@
 
 .service-description {
 	font-family: 'Bitter', serif;
+}
+
+
+@media(max-width: 768px) {
+	.service {
+		width: 90%;
+	}
+
+	.color-dog {
+		height: 150px;
+	}
 }

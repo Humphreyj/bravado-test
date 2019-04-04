@@ -26,3 +26,9 @@
 }
 
 
+@media(max-width: 769px) {
+	.shop-pic {
+		width: 90%;
+	}
+}
+
