@@ -10,8 +10,9 @@
 	background: url('../../img/colorDog.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 210px;
-	width: 100%;
+	background-position: center;
+	height: 240px;
+	width: 90%;
 	margin: auto;
 
 }
