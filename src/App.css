@@ -4,5 +4,6 @@
   background: url('./img/planks.jpg');
   background-position: cover;
   background-repeat: repeat-y;
+  padding-top: 10px;
 }
 
