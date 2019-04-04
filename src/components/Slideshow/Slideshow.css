@@ -1,0 +1,17 @@
+.slide-container {
+	width: 80%;
+	margin: auto;
+}
+.each-slide  div {
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	min-height: 150px;
+	width: 40%;
+	margin: auto;
+
+}
+

@@ -1,0 +1,57 @@
+.services-wrapper {
+	padding: 20px;
+	background-color: rgba(0,0,0,.8);
+	width: 90%;
+	margin: auto;
+	border-radius: 12px;
+}
+
+.color-dog {
+	background: url('../../img/colorDog.png');
+	background-repeat: no-repeat;
+	height: 210px;
+	width: 500px;
+	margin: auto;
+
+}
+
+.services {
+	padding: 20px;
+}
+
+.service-title {
+	font-family: 'Catamaran', serif;
+	font-weight: bold;
+	color: white;
+}
+
+.service-text {
+	font-family: 'Bitter', serif;
+	color: white;
+
+}
+
+.service {
+	width: 60%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	border-radius: 12px;
+	padding: 5px;
+	font-size: 18px;
+	background-color: white;
+
+}
+
+.service-name {
+	border-bottom: 1px solid black;
+	padding: 2px;
+	font-family: 'Catamaran', sans-serif;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.service-description {
+	font-family: 'Bitter', serif;
+}
